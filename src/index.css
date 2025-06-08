@@ -1,0 +1,9 @@
+/* reset & base */
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: Arial, sans-serif; line-height: 1.6; }
+
+/* container */
+main { padding: 2rem; max-width: 800px; margin: auto; }
+
+/* simple link style */
+a { text-decoration: none; color: #0070f3; }
